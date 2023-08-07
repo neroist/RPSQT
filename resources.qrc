@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="icons">
+		<file alias="rps">images/rock hand image.png</file>
+		<file alias="paper">images/paper hand image.png</file>
+		<file alias="rock">images/rock hand image.png</file>
+		<file alias="scissors">images/scissors hand image.png</file>
+	</qresource>
+</RCC>
